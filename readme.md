@@ -71,10 +71,10 @@ Obs: O primeiro jogo não conta como novo recorde do melhor. Exemplo: String: �
 20-Crie um programa para informar quais e as notas necessárias são para entregar o mínimo de cédulas para um determinado valor rede pelo usuário considerando notas de R$ 100, R$ 50, R$ 10 e R$ 5. Seu programa deve mostrar apenas as notas utilizadas. Por exemplo, ao pedido R$ 15, o programa deve informar apenas a seguinte informação (observe que não foram divulgadas informações sobre as demais cédulas): 1 nota (s) de R $ 10, 1 nota (s) de R $ 5.
 
 
-21-Criar um programa para identificar o valor de um ser pago por um plano de saúde dada a idade do conveniado considerando que todos pagam R$ 100 mais um adicional conforme a tabela a seguir: 1) crianças com menos de 10 anos pagam R $ 80; 2) conveniados com idade entre 10 e 30 anos pagam R $ 50; 3) conveniados com idade acima de 30 e até 60 anos pagam R$ 95; e 4) conveniados acima de 60 anos pagam R$ 130.
+21-Criar um programa para identificar o valor de um ser pago por um plano de saúde dada a idade do conveniado considerando que todos pagam R$ 100 mais um adicional conforme a tabela a seguir: 1) crianças com menos de 10 anos pagam 80 reais; 2) conveniados com idade entre 10 e 30 anos pagam 50 reais; 3) conveniados com idade acima de 30 e até 60 anos pagam 95 reais; e 4) conveniados acima de 60 anos pagam 130 reais.
 
 
-22-Criar uma função para calcular o valor a ser pago de anuidade de uma associação. A função recebe como parâmetro um inteiro que representa o mês (1 - janeiro, 2 - fevereiro…) que foi paga e o valor da anuidade. Por mês, a cobrança é de 5% de Juros (sob o regime de juros composto). O retorno deve ser o valor a ser pago para o mês escolhido.
+22-Criar uma função para calcular o valor a ser pago de anuidade de uma associação. A função recebe como parâmetro um inteiro que representa o mês (1-janeiro, 2- fevereiro) que foi paga e o valor da anuidade. Por mês, a cobrança é de cinco por cento de Juros (sob o regime de juros composto). O retorno deve ser o valor a ser pago para o mês escolhido.
 
 
 23-Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calcula e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" é a média para o menor que 5. 
