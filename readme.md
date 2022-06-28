@@ -1,5 +1,6 @@
 <h1>Olá! Esse projeto contém exercícios JavaScript!</h1>
 ✔️São 42 exercícios que serão completados ao longo do tempo;
+
 ✔️Os exercícios trabalham tipos de dados, loops, funções entre outros;
 
 ✔️Toda a parte lógica foi desenvolvida com JavaScript;
