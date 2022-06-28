@@ -1,6 +1,6 @@
 <h1>Olá! Esse projeto contém exercícios JavaScript!</h1>
-✔️São 42 exercícios que serão completados ao longo do tempo;
 
+✔️São 42 exercícios que serão completados ao longo do tempo;
 
 ✔️Os exercícios trabalham tipos de dados, loops, funções entre outros;
 
@@ -8,9 +8,10 @@
 
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
 
-<h2>Enunciados</h2>
-<p align="justify">
-1-Crie uma função que dado dois valores (passados ​​como parâmetros) mostre no console a soma, subtração, multiplicação e divisão valores.
+<h2>Enunciados</h2> 
+
+
+1-Crie uma função que dado dois valores (passados como parâmetros) mostre no console a soma, subtração, multiplicação e divisão valores.
 
 2-Os triângulos podem ser classificados em 3 tipos quanto ao tamanho de seus lados: Equilátero: Os três lados são iguais. Isósceles: Dois lados iguais. Escaleno: Todos os lados são diferentes. Crie uma função que recebe os comprimentos dos três lados de um triângulo e retorne sua classificação quanto ao tamanho de seus lados. (Neste exemplo deve-se-se abstrair como condições matemáticas de existência de um triângulo).
 
@@ -96,4 +97,4 @@ Um funcionário irá receber um aumento de acordo com o seu plano de trabalho, d
 
 41-Faça uma função que receba como parâmetro de um vetor de notas e mostre os conceitos de cada uma de modo que de 0,0 a 4,9 seja atribuído ao conceito D, de 5,0 a 6,9 seja atribuído o conceito C, de 7,0 a 8,9 o conceito B e de 9,0 a 10,0 o conceito A.
 
-42-Um novo modelo de carro, super econômico foi lançado. Ele faz 20 km com 1 litro de combustível. Cada litro de combustível custa R$ 5,00. Faça um programa que pergunte ao usuário quanto de dinheiro ele tem e em seguida diga quantos litros de combustível ele pode comprar e quantos kilometros o carro consegue andar com este tanto de combustível. </p>
+42-Um novo modelo de carro, super econômico foi lançado. Ele faz 20 km com 1 litro de combustível. Cada litro de combustível custa R$ 5,00. Faça um programa que pergunte ao usuário quanto de dinheiro ele tem e em seguida diga quantos litros de combustível ele pode comprar e quantos kilometros o carro consegue andar com este tanto de combustível. 
